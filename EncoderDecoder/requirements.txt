@@ -1,0 +1,6 @@
+# Encoder–Decoder NLP (Streamlit + TensorFlow/Keras)
+# Python 3.10+ recommended
+
+numpy>=1.23,<3
+streamlit>=1.28,<2
+tensorflow>=2.14,<3
