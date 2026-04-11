@@ -108,6 +108,3 @@ EncoderDecoder/
 
 Trained model artifacts (`.h5`, `.keras`, `.pkl`) are expected beside `app.py` but are usually not committed to Git due to size—add them locally or via your own release assets.
 
-## License
-
-Add a `LICENSE` file if you publish this repository publicly.
