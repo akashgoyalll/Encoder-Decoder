@@ -11,7 +11,8 @@ A [Streamlit](https://streamlit.io/) web app that runs two **sequence-to-sequenc
 
 -
 
-<img width="1919" height="902" alt="Screenshot 2026-04-22 001704" src="https://github.com/user-attachments/assets/7a296288-9884-4cef-a178-00c6426787f9" />
+<img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/3e474dd7-fe09-47b9-92ba-96013b178bee" />
+
 
 
 ## Requirements
