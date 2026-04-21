@@ -7,6 +7,9 @@ A [Streamlit](https://streamlit.io/) web app that runs two **sequence-to-sequenc
 - **Translator mode** — Encode English, decode Hindi with greedy decoding; beam search as a rescue when greedy output looks collapsed.
 - **Summarizer mode** — Encode a document, decode a short summary; optional extractive fallback (sentence scoring by word frequency) when overlap with the source is too low.
 
+<img width="1917" height="905" alt="Screenshot 2026-04-22 001642" src="https://github.com/user-attachments/assets/62b49afa-f877-40d0-a84c-9012378af42e" />
+
+
 ## Requirements
 
 - Python 3.10+ recommended.
